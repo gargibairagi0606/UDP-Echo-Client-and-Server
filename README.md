@@ -1,4 +1,4 @@
-# UDP Echo Client–Server (Python)
+# UDP Echo Client–Server
 
 A lightweight UDP-based client–server application demonstrates
 connectionless communication, timeout handling, and message echoing
